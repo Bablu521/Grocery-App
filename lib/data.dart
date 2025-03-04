@@ -11,7 +11,7 @@ const List<Category> categories = [
   Category(id: "c7", name: "Frozen Foods", imagePath: "images/frozenfood.png"),
   Category(id: "c8", name: "Snacks", imagePath: "images/snacks.png"),
   Category(id: "c9", name: "Beverages", imagePath: "images/Beverage.png"),
-  Category(id: "c10", name: "Pasta/Rice", imagePath: "images/rice.png"),
+  Category(id: "c10", name: "Food Supplies", imagePath: "images/Food_Supplies.png"),
   Category(
       id: "c11", name: "Personal Care", imagePath: "images/personalCare.png"),
   Category(id: "c12", name: "Paper & Wrap", imagePath: "images/Paper_wrap.png"),
